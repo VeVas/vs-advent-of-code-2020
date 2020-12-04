@@ -50,7 +50,7 @@ for (let index = 0; index < data.length; index++) {
 const First = () => {
     return (
        <div>
-            <h1>1. December</h1>
+            <h1>December 1st</h1>
             <h3 style={{marginBottom:  '0'}}>Part one</h3>
             <p>The answer is: <strong>{factor_one_part_one} </strong> times <strong>{factor_two_part_one}</strong> is <strong>{answer_part_one}</strong></p>
             <h3>Part two</h3>
