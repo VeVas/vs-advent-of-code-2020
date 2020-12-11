@@ -10,4 +10,5 @@ To view solutions in the browser:
 
 ### Solutions
 
-[Day 1](docs/Day1.md)
+[Day 1](docs/Day1.md)  
+[Day 2](docs/Day2.md)
