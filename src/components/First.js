@@ -17,7 +17,7 @@ for (let index = 0; index < data.length; index++) {
             answer_part_one =  element*data[index2];
             factor_one_part_one = element;
             factor_two_part_one = data[index2];
-            console.log('The answer to the first part is: '+element+' times '+data[index2]+' is '+answer_part_one);
+            //console.log('The answer to the first part is: '+element+' times '+data[index2]+' is '+answer_part_one);
             break;
         }
         if(answer_part_one !== 0) { break; }
@@ -36,7 +36,7 @@ for (let index = 0; index < data.length; index++) {
                 factor_one_part_two = element;
                 factor_two_part_two = element2;
                 factor_three_part_two = data[index3];
-                console.log('The answer to the second part is: '+element+' times '+element2+' times '+data[index3]+' is '+answer_part_two);
+                //console.log('The answer to the second part is: '+element+' times '+element2+' times '+data[index3]+' is '+answer_part_two);
                 break;
             }
             if(answer_part_two !== 0) { break; }
